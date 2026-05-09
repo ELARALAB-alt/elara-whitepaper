@@ -17,8 +17,7 @@ Pilih bahasa Anda:
 
 - 🌐 **Website**: [Segera Hadir]
 - 🐦 **X (Twitter)**: [@ElaraLabweb3](https://x.com/ElaraLabweb3)
-- 💬 **Discord**: [Segera Hadir]
-- 📢 **Telegram**: [Segera Hadir]
+- 💬 **Discord**: [https://t.co/P5EnUK0UNr]
 
 ## 📦 Tentang ELARA NET
 
