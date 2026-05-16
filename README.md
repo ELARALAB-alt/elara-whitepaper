@@ -10,14 +10,13 @@ Selamat datang di repositori resmi **ELARA NET**, ekosistem AI terdesentralisasi
 
 Pilih bahasa Anda:
 
-- 🇮🇩 [Bahasa Indonesia (v0.1.8)](./ELARA_Whitepaper_v0.1.8_ID.md)
-- 🇬🇧 [English (v0.1.8)](./ELARA_Whitepaper_v0.1.8_EN.md)
+- 🇮🇩 [Bahasa Indonesia (v0.2.3)](./ELARA_Whitepaper_v0.2.3_ID.md)
+- 🇬🇧 [English (v0.2.3)](./ELARA_Whitepaper_v0.2.3_EN.md)
 
 ## 🔗 Tautan Resmi
 
-- 🌐 **Website**: [Segera Hadir]
 - 🐦 **X (Twitter)**: [@ElaraLabweb3](https://x.com/ElaraLabweb3)
-- 💬 **Discord**: [https://t.co/P5EnUK0UNr]
+- 💬 **Discord**: [Segera Hadir]
 
 ## 📦 Tentang ELARA NET
 
