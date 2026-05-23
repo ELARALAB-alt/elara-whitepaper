@@ -16,7 +16,7 @@ Pilih bahasa Anda:
 ## 🔗 Tautan Resmi
 
 - 🐦 **X (Twitter)**: [@ElaraLabweb3](https://x.com/ElaraLabweb3)
-- 💬 **Discord**: [Segera Hadir]
+- 💬 **Discord**: https://discord.gg/HPprfA8a
 
 ## 📦 Tentang ELARA NET
 
