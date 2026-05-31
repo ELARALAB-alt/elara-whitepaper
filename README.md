@@ -10,8 +10,8 @@ Selamat datang di repositori resmi **ELARA NET**, ekosistem AI terdesentralisasi
 
 Pilih bahasa Anda:
 
-- 🇮🇩 [Bahasa Indonesia (v0.2.3)](./ELARA_Whitepaper_v0.2.3_ID.md)
-- 🇬🇧 [English (v0.2.3)](./ELARA_Whitepaper_v0.2.3_EN.md)
+- 🇮🇩 [Bahasa Indonesia (v0.2.4)](./ELARA_Whitepaper_v0.2.4_ID.md)
+- 🇬🇧 [English (v0.2.4)](./ELARA_Whitepaper_v0.2.4_EN.md)
 
 ## 🔗 Tautan Resmi
 
