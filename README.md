@@ -2,7 +2,6 @@
 
 ### *Ex Lapsus Resurgam AI*
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da)](https://discord.gg/HPprfA8a)
 [![X (Twitter)](https://img.shields.io/badge/X-@ElaraLabweb3-1DA1F2)](https://x.com/ElaraLabweb3)
 
@@ -48,12 +47,6 @@ This whitepaper is a **living document**. We welcome feedback, discussions, and 
 - Open an [Issue](https://github.com/ELARALAB-alt/elara-whitepaper/issues) for suggestions or corrections.
 - Start a [Discussion](https://github.com/ELARALAB-alt/elara-whitepaper/discussions) to propose larger changes.
 - Join our Discord for real‑time conversations.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
