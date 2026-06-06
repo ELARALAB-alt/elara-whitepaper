@@ -1,33 +1,23 @@
-# ⚡ ELARA NET: The Resurrection Protocol
+⚡ ELARA NET: The Resurrection Protocol
+Ex Lapsus Resurgam AI
+Welcome to the official repository of ELARA NET, a decentralized AI ecosystem connecting a trading bot, utility token, and global community.
 
-### *Ex Lapsus Resurgam AI*
+📜 Official Whitepaper
+Choose your language:
 
----
+🇮🇩 Bahasa Indonesia (v0.2.5)
 
-Selamat datang di repositori resmi **ELARA NET**, ekosistem AI terdesentralisasi yang menghubungkan robot trading, token utilitas, dan komunitas global.
+🇬🇧 English (v0.2.5)
 
-## 📜 Whitepaper Resmi
+🔗 Official Links
+🐦 X (Twitter): @ElaraLabweb3
 
-Pilih bahasa Anda:
+💬 Discord: https://discord.gg/HPprfA8a
 
-- 🇮🇩 [Bahasa Indonesia (v0.2.5)](./ELARA_Whitepaper_v0.2.5_ID.md)
-- 🇬🇧 [English (v0.2.5)](./ELARA_Whitepaper_v0.2.5_EN.md)
+📦 About ELARA NET
+ELARA NET is a decentralized AI service network. Our flagship product, AETHER, is a transparent AI trading robot—every signal, every profit, and every loss is published in real time.
 
-## 🔗 Tautan Resmi
+The $ELR token is the access key to the entire ecosystem. Not merely a speculative asset, but a functional payment tool for real products.
 
-- 🐦 **X (Twitter)**: [@ElaraLabweb3](https://x.com/ElaraLabweb3)
-- 💬 **Discord**: https://discord.gg/HPprfA8a
-
-## 📦 Tentang ELARA NET
-
-ELARA NET adalah jaringan layanan AI terdesentralisasi. Produk unggulan kami, **AETHER**, adalah robot trading AI yang transparan—setiap sinyal, setiap profit, dan setiap kerugian dipublikasikan secara real-time.
-
-Token **$ELR** adalah kunci akses ke seluruh ekosistem. Bukan sekadar aset spekulatif, melainkan alat pembayaran fungsional untuk produk nyata.
-
-## 🤝 Berkontribusi
-
-Whitepaper ini adalah dokumen hidup. Kami menyambut masukan, diskusi, dan kontribusi dari komunitas. Silakan buka **Issues** atau **Discussions** untuk berpartisipasi.
-
----
-
-*Ex Lapsus Resurgam. Dari kegagalan, kita bangkit kembali.*
+🤝 Contribute
+This whitepaper is a living document. We welcome feedback, discussions, and contributions from the community. Please open Issues or Discussions to participate.
