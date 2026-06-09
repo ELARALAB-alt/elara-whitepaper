@@ -24,6 +24,7 @@ Low Liquidity ($10): This is the initial liquidity pool. Liquidity will be incre
 Verification Sources
 Honeypot.is: https://honeypot.is/ethereum/0xb489258429f4e1a350fc4534292f148f91902ccb
 TokenSniffer: https://tokensniffer.com/token/0xb489258429f4e1a350fc4534292f148f91902ccb
+BSC Honeypot Detector: https://honeypot.is/ethereum/0xb489258429f4e1a350fc4534292f148f91902ccb
 BscScan (Verified Source Code): https://bscscan.com/address/0xb489258429f4e1a350fc4534292f148f91902ccb#code
 
 Ex Lapsus Resurgam. From failure, we rise again.
