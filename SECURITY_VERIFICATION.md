@@ -35,9 +35,9 @@
 
 | Source | Link |
 | :--- | :--- |
-| **Honeypot.is** | [View Report](https://honeypot.is/ethereum/0xb489258429f4e1a350fc4534292f148f91902ccb) |
+| **Honeypot.is** | [View Report](https://honeypot.is/?address=0xb489258429f4e1a350fc4534292f148f91902ccb) |
 | **TokenSniffer** | [View Report](https://tokensniffer.com/token/0xb489258429f4e1a350fc4534292f148f91902ccb) |
-| **BSC Honeypot Detector** | [View Report](https://honeypot.is/ethereum/0xb489258429f4e1a350fc4534292f148f91902ccb) |
+| **GO Plus** | [View Report](https://console.gopluslabs.io/token-security/56/0xb489258429f4e1a350fc4534292f148f91902ccb) |
 | **BscScan (Verified Source Code)** | [View Code](https://bscscan.com/address/0xb489258429f4e1a350fc4534292f148f91902ccb#code) |
 
 ---
