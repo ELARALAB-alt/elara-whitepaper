@@ -57,7 +57,7 @@ An automated security audit was performed on the AETHER V1.9.0 codebase using in
 | Semgrep | 0 issues | ✅ Clean |
 
 **Full Reports:**
-- [Bandit Report](audit_reports/bandit_report_final.txt)
+- [Bandit Report]([audit_reports/bandit_report_final.txt](https://github.com/ELARALAB-alt/elara-whitepaper/blob/main/bandit_report_final.txt))
 - [Semgrep Report](audit_reports/semgrep_report_final.txt)
 
 ---
