@@ -42,4 +42,30 @@
 
 ---
 
+## AETHER V1.9.0 — Code Security Audit (June 15, 2026)
+
+An automated security audit was performed on the AETHER V1.9.0 codebase using industry-standard static analysis tools.
+
+### Methodology
+- **Bandit:** Scanned for common Python security issues.
+- **Semgrep:** Scanned for code patterns that may lead to security vulnerabilities.
+
+### Results
+| Tool | Findings | Status |
+|------|----------|--------|
+| Bandit | 0 issues | ✅ Clean |
+| Semgrep | 0 issues | ✅ Clean |
+
+**Full Reports:**
+- [Bandit Report](audit_reports/bandit_report_final.txt)
+- [Semgrep Report](audit_reports/semgrep_report_final.txt)
+
+---
+
+### False Positives & Mitigations
+
+- **Previous Low-severity findings (`try-except-pass`):** All `except` blocks have been updated with proper `Exception` handling and logging via `log_warning()`. No silent failures remain in the codebase.
+
+---
+
 *Ex Lapsus Resurgam. From failure, we rise again.*
